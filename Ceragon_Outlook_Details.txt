@@ -1,0 +1,19 @@
+amanulm@ceragon.com
+
+
+Password:- Newnov!@34
+
+
+Pin:- 741249
+
+OLM id- A1V0PNOJ
+OLM VPN id - A1V0PNOJ@airtel.com
+OLM Password :-7=Kvgdei
+
+Cat User Id - A1J9NQC6
+Cat Pass - Cer#4321
+
+My_Linux Uid -ec2-user@ec2-3-84-188-121.compute-1.amazonaws.com
+Public_Ipv4 Address-52.91.196.44
+
+Git Hub Token -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
